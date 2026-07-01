@@ -26,7 +26,13 @@ El análisis se basa en el procesamiento de la siguiente fuente de datos:
 | **6** | Visualización | Respaldo visual de conclusiones. |
 | **7** | Insight ejecutivo | Decisión clara para stakeholders. |
 
+## 💻 Cómo ejecutar el Notebook
+Para visualizar y ejecutar el análisis, se recomienda el uso de **Google Colab** por su facilidad para manejar entornos de Python:
 
-| **5** | Analizar tipo de usuario y conversión | Evaluar si se debe segmentar a los usuarios. |
-| **6** | Visualización | Respaldo visual de conclusiones. |
-| **7** | Insight ejecutivo | Decisión clara para stakeholders. |
+1.  Accede a [ ]
+2.  Ejecuta las celdas secuencialmente presionando `Shift + Enter`.
+
+## 🛠️ Guía de Reproducción
+Para replicar este análisis en un entorno local:
+1.  **Clonar el repositorio** o descargar los archivos fuente.
+2.  **Ejecución:** Abre tu editor preferido (Jupyter Notebook, VS Code o PyCharm) y corre el script completo para generar los gráficos y el reporte final.
